@@ -31,5 +31,5 @@ Què pretenem amb tot açò?
 |Noé|Conde|
 |Dayron|Notario|
 |Ezequiel|Menor|
-
+|Ariadna|Bataller|
 
